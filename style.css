@@ -1,0 +1,41 @@
+body
+{
+	background-color: #5C6C99;
+}
+#hl
+{
+	margin-left: 36.5%;
+	width: 50%;
+	color: #FFFFFF;
+	font-size: 80pt;
+	font-weight: bold;
+}
+p
+{
+	margin: auto;
+	width: 80%;
+	color: #FFFFFF;	
+}
+#content
+{
+	margin-left: 36%;
+	width: 50%;
+	
+	color: #CFD5E5
+}
+#text
+{
+	
+}
+#list
+{
+	
+}
+img
+{
+	width: 50%;
+}
+#button1
+{
+	width: 50%;
+}
